@@ -54,7 +54,7 @@ function App() {
       title: "12th Standard",
       status: "Current",
       icon: <Clock className="text-blue-500 animate-pulse" />,
-      description: "Coming Soon",
+      description: "Completing Soon...",
       year: "2025"
     },
     {
